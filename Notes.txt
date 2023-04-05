@@ -1,0 +1,24 @@
+key : 85489947a491f6a26bed025a0904402c (openweathermap website)
+
+https://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=85489947a491f6a26bed025a0904402c
+
+
+const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+
+const d = new Date();
+let day = days[d.getDay()];	
+
+https://www.w3schools.com/jsref/prop_html_innerhtml.asp
+
+The innerHTML property sets or returns the HTML content (inner HTML) of an element.
+
+
+Difference between var, let and const keywords in JavaScript
+
+https://www.geeksforgeeks.org/difference-between-var-let-and-const-keywords-in-javascript/
+
+Arrays methods : join, replace etc used in the project.
+
+https://www.youtube.com/watch?v=Fx9ciSsjDsc&list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8&index=24
+
+

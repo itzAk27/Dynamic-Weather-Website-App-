@@ -1,0 +1,14 @@
+{
+  "name": "weatherappnodejs",
+  "version": "1.0.0",
+  "description": "It is an Dynamic Weather App which fetches real time API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhtar Khan",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
